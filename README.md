@@ -1,8 +1,8 @@
 #My learning journey
 
-# My Programming Journey  
-I am a student of Information and Communication Technologies, currently learning JavaScript and React.js.  
+#About this repository  
+This repository was created to serve as a connection to my web project and houses all the projects showcased on the website.
 
-## Projects  
-- [Simple Web Page](https://github.com/Humm1ngB1rd77/my-learning-journey/index.html)  
-- [Basic JavaScript Functions](https://github.com/USERNAME/repo-name/script.js) 
+
+ 
+
